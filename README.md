@@ -2,12 +2,12 @@
     ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs 
 </h4>
 <p align="center">
-    <a href="https://t.me/QueenAlishaRobot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
-    <a href="https://t.me/Pubglovers_Shayri_lovers"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
-    <a href="https://t.me/AlishaSupport"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
+    <a href="https://t.me/Raichu_music_robot"> ʀᴇᴀᴅʏ-ᴛᴏ-ᴜsᴇ ʙᴏᴛ </a> •
+    <a href="https://t.me/about_raichu"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ </a> •
+    <a href="https://t.me/RAICHU_SPAM_SUPPORT"> sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ </a> 
 </p>
     
-# ᴀʟɪꜱʜᴀ ᴍᴜsɪᴄ ʙᴏᴛ
+# RAICHU MUSIC BOT
 
 ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs. ɪᴛ ᴄᴏᴍᴇs ᴡɪᴛʜ  ᴜsᴇʀ ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ᴇᴀsʏ ᴛᴏ ᴜsᴇ ʏᴇᴛ ᴇʟᴇɢᴀɴᴛ ғᴇᴀᴛᴜʀᴇs.
 
@@ -22,7 +22,7 @@
 - [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
 - [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
 - [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
+- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/Stringsession_raichu_robot)
     
 </details>
 
@@ -37,7 +37,7 @@
 <p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/StringGeneratorRobot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/Stringsession_raichu_robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -57,7 +57,7 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-[Abhimanyu](https://t.me/Itz_Venom_xD) 
+[RAICHU](https://t.me/Raichu_xD) 
 
 ## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
